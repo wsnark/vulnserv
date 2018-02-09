@@ -1,0 +1,9 @@
+version: "2"
+services:
+  vulnserv:
+    build:
+      context: .
+    volumes:
+      - .:/home/node/app
+    ports:
+      - 3000

@@ -1,0 +1,14 @@
+{
+  "name": "vulnserv",
+  "version": "1.0.0",
+  "description": "Minimal nodejs service for demo / workshops",
+  "main": "server.js",
+  "dependencies": {
+    "eslint": "^4.17.0",
+    "express": "4.16.2",
+    "http": "0.0.0",
+    "socket.io": "^2.0.4"
+  },
+  "author": "Wire Snark",
+  "license": "MIT"
+}
