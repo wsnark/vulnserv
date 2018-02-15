@@ -1,5 +1,3 @@
-# Server Certificates, including private keys
-certs
 # Logs
 logs
 *.log
