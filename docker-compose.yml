@@ -6,4 +6,4 @@ services:
     volumes:
       - .:/home/node/app
     ports:
-      - 3000
+      - "443:3000"
